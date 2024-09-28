@@ -1,2 +1,7 @@
-# puc-analise-dados
-Análise de indicadores de medo e ganância (fear &amp; greed) na bolsa brazileira :brazil:, usando Python
+# Projeto de Análise de Dados (PUC-Rio)
+
+Trabalho de conclusão do módulo de Análise de Dados e Visualização do curso de pós-graduação em Ciência de Dados e Analytics da PUC-Rio.
+
+---
+
+
