@@ -4,7 +4,7 @@
 
 Trabalho de conclusão do módulo de Análise de Dados e Visualização do curso de pós-graduação em Ciência de Dados e Analytics da PUC-Rio.
 
-:bar_chart: O trabalho também pode ser acessado através do Google Colab [aqui](http://3.137.169.241:3000/public/dashboard/749258f2-67f9-41a4-9e57-f69c0fb5392b).
+:bar_chart: O trabalho também pode ser acessado através do Google Colab [aqui](https://colab.research.google.com/drive/1-B-_WydrtEMIp7HB_48Xfg5AbyrFce2S?usp=sharing).
 
 ## Sumário
 
